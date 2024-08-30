@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+  Distance.cpp
+D:\USER\Desktop\SLITT\Year 1 Semester 2\Obeject Oriented Concepts (OOC)\Labsheets\Labsheet 7\ConsoleApplication1\ConsoleApplication1\Distance.cpp(45,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\USER\Desktop\SLITT\Year 1 Semester 2\Obeject Oriented Concepts (OOC)\Labsheets\Labsheet 7\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
